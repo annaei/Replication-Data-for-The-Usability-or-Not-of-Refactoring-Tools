@@ -14,7 +14,7 @@ From this pool, we selected commits that was aligned with the task size and moti
 In order to participate in our study, it was a requirement with one year of experience with Java programming. 17 participants fullfilled this criteria and two participants were admitted without this criteria due to extensive experience with other object-oriented languages. We performed 6 pilot study sessions and 19 participant study sessions. The data from 2 of our 19 participants were excluded due to technical problems with the IDE and inability to progress on tasks. Data from the remaining 17 participants form the basis for analysis in this paper.
 
 ### Study setup 
-Participants were provided with the system found in the ./navajo folder loaded into a running instance of the IntelliJ IDE. The system also had a git repository initialised, which is not present in this repository. **In case of replication, please set up a git repository and add to it some history e.g. using empty commits. Inform participants of the existence of this repository during the intro segment.**
+Participants were provided with the system found in the ./navajo-project folder loaded into a running instance of the IntelliJ IDE. The system also had a git repository initialised, which is not present in this repository. **In case of replication, please set up a git repository and add to it some history e.g. using empty commits. Inform participants of the existence of this repository during the intro segment.**
 
 The screen and audio was recorded using the QuickTime media player that was present on the provided laptop. 
 
