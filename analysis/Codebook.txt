@@ -1,0 +1,25 @@
+**Usability Codes
+
+Marks locations in the transcripts where the user describes their experience using a refactoring tool. The tool may be used during the study, such as immediately before the comment or earlier in the tasks, or it may be a recollection from the participant’s professional experience. 
+
+For each refactoring tool usage, mark the participant’s comments with codes as appropriate, including when the matching is indirect or negated. 
+
+* Efficient 
+
+References to the tool or process of using the tool being fast, making them productive, minimize the wasted effort required to reach the goal, reach the goal in a short time, skipping or avoiding work. 
+
+* Effective 
+
+References to the tool being successful in producing a desired or intended result. 
+
+* Satisfaction 
+
+References to the tool doing what the user wishes, fulfilling their expectations or needs, or the pleasure derived from the process. Including descriptions of what they require from the tool in order for it to be satisfactory. 
+
+* Trust 
+
+References to the tool being trustworthy, safe, reliable, lack of worry or fear, not needing to check the result. 
+
+* Predictable 
+
+References to the tool performing as expected, lack of surprises, understandable upfront. 
